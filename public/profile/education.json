@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
+            "title": "2019 - 2024",
+            "cardTitle": "DEC, Computer Science and Technology",
+            "cardSubtitle":"Champlain Regional College, St-Lambert",
             "cardDetailedText": "CGPA - 9.5",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/Champlain.png"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "2014-2019",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Centenniel Regional High-School, Greenfield Park",
+            "cardDetailedText": "Average - 95%"
         }
     ]
 }

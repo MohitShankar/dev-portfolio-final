@@ -22,24 +22,24 @@ export const lightTheme = {
 };
 
 export const darkTheme = {
-  background: '#121212',
-  color: '#eee',
-  accentColor: '#3D84C6',
+  background: '#1A1A1A',
+  color: '#E0E0E0',
+  accentColor: '#FFD700',
   chronoTheme: {
-    cardBgColor: '#1B1B1B',
-    cardForeColor: '#eee',
-    titleColor: 'black',
+    cardBgColor: '#2D2D2D',
+    cardForeColor: '#CCCCCC',
+    titleColor: '#FFD700',
   },
-  timelineLineColor: '#444',
-  cardBackground: '#060606',
-  cardFooterBackground: '#181818',
-  cardBorderColor: '#ffffff20',
+  timelineLineColor: '#555555',
+  cardBackground: '#222222',
+  cardFooterBackground: '#333333',
+  cardBorderColor: '#FFFFFF20',
   navbarTheme: {
-    linkColor: '#dedede',
-    linkHoverColor: '#fefefe',
-    linkActiveColor: '#fefefe',
+    linkColor: '#999999',
+    linkHoverColor: '#FFD700',
+    linkActiveColor: '#FFD700',
   },
   bsPrimaryVariant: 'dark',
   bsSecondaryVariant: 'light',
-  socialIconBgColor: '#fefefe',
+  socialIconBgColor: '#FFD700',
 };

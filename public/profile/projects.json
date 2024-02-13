@@ -1,29 +1,9 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
-            ]
-        },
-        {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/veterinary-clinic.jpg",
+            "title": "PetClinic  - Reactive Veternarian Web service ",
+            "bodyText": "-Service where users can create appointments and vets can organize dates, perscriptions and customers.\n \n Using: Java, Springboot, MongoDB, React and Docker \n with agile and scrum methodology.",
             "links": [
                 {
                     "text": "GitHub",
@@ -35,19 +15,18 @@
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Java",
+                "Springboot",
+                "React.js",
+                "MongoDB",
+                "Docker"
+                
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/porche.jpg",
+            "title": "Atelier Mechanique - Reactive mequanic web service",
+            "bodyText": "A website where users can send invoices and have a database of their clients and vehicles, and where customers can make Appointments. Admin can manage their business more efficiently and also allow customers for a more seamless interaction with the system and business.Also allows customers an easier access to the business. \n \n This project exists to showcase our skill in full stack development by being able to provide a  client with a seamless system to manage their business in a efficient and modern fashion ",
             "links": [
                 {
                     "text": "GitHub",
@@ -56,14 +35,18 @@
             ],
             "tags" : [
                 "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "Springboot",
+                "MySQL",
+                "React.js",
+                "Node.js",
+                "Gradle",
+                "Docker"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "image" : "images/projects/apple.jpg",
+            "title": " MVVM IOS Application using Persistence and API",
+            "bodyText": "- An App where users browse through different TV shows, add them to a watchlist and give a star rating and written review. All data is saved to a firebase database.",
             "links": [
                 {
                     "text": "GitHub",
@@ -71,15 +54,16 @@
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
+                "Swift",
+                "SwiftUI",
                 "Firebase",
-                "RSA"
+                "API"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "image" : "images/projects/chatroom.jpg",
+            "title": "PHP-Chatroom",
+            "bodyText": "A php-chatroom where 2 users can communicate back and forth on 2 different machines",
             "links": [
                 {
                     "text": "GitHub",
@@ -87,37 +71,15 @@
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
+                "PHP",
+                "Laravel"
             ]
         },
+        
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "image" : "images/projects/iot.jpg",
+            "title": "IoT Home Invasion Security System",
+            "bodyText": "-A system that detects motion and sound between certain decibels and intervals that alerts the user and organizes the data inside a database while also using JSON Formatting.",
             "links": [
                 {
                     "text": "GitHub",
@@ -125,26 +87,33 @@
                 }
             ],
             "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
+                "Python",
+                "Flask API",
+                "MongoDB",
+                "Sound Detection sensor",
+                "PIR motion sensor",
+                "Arduino nano",
+                "C++"
             ]
         },
         {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "image" : "images/projects/unity.jpg",
+            "title": "First Person Shooter Video Game",
+            "bodyText": "A 3D first person shooter survuival video game where the player shoots robots that attack and shoot at them.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "C#",
+                "Asset Store",
+                "Unity",
+                "Github Desktop"
+                
             ]
         }
+        
     ]
 }

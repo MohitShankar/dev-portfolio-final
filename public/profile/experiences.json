@@ -1,33 +1,26 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Seller, Cashier and Warehouse worker",
+            "subtitle": "TJX Canada",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Operated cash register and POS to process sales transaction and handle payments.",
+                "De-escalate aggressive sistuations and facilitate proper communication",
+                "Fulfilled warehouse responsibilities, such as managaing inventory and team Collaboration."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2021 – 12/2022"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Manager",
+            "subtitle": "Poutine&Co",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Set up payment software and synced it to all regiters and payment machines.",
+                "Managed latency issues and fixed hardware problems."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "04/2023 – 08/2023"
         }
+       
     ]
 }
