@@ -1,6 +1,6 @@
 export const lightTheme = {
   background: '#fff',
-  color: '#121212',
+  color: 'White',
   accentColor: '#3D84C6',
   chronoTheme: {
     cardBgColor: 'white',
