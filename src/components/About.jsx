@@ -15,7 +15,6 @@ const styles = {
     textAlign: 'left',
     fontSize: '1.2em',
     fontWeight: 500,
-    textShadow: '1px 1px 2px #000', // Add dark outlines to the text
   },
   introImageContainer: {
     margin: 10,
