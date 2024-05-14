@@ -3,15 +3,11 @@
         {
             "image" : "images/projects/veterinary-clinic.jpg",
             "title": "PetClinic  - Reactive Veternarian Web service ",
-            "bodyText": "-Service where users can create appointments and vets can organize dates, perscriptions and customers.\n \n Using: Java, Springboot, MongoDB, React and Docker \n with agile and scrum methodology.",
+            "bodyText": "- A class project in which we created a service where vets and customers can create appointments and vets can organize dates, perscriptions and customers \n \n - Using: Java, Springboot, MongoDB, React and Docker \n with agile and scrum methodology.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/istiaque-champ/champ_petclinic"
                 }
             ],
             "tags" : [
@@ -26,11 +22,11 @@
         {
             "image" : "images/projects/porche.jpg",
             "title": "Atelier Mechanique - Reactive mequanic web service",
-            "bodyText": "A website where users can send invoices and have a database of their clients and vehicles, and where customers can make Appointments. Admin can manage their business more efficiently and also allow customers for a more seamless interaction with the system and business.Also allows customers an easier access to the business. \n \n This project exists to showcase our skill in full stack development by being able to provide a  client with a seamless system to manage their business in a efficient and modern fashion ",
+            "bodyText": "- A website where users can send invoices and have a database of their clients and vehicles, and where customers can make Appointments. Admin can manage their business more efficiently and also allow customers for a more seamless interaction with the system and business.Also allows customers an easier access to the business. \n \n - This project exists to showcase our skill in full stack development by being able to provide a  client with a seamless system to manage their business in a efficient and modern fashion bringing the business into the modern age  \n\n" ,
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/Iantomasi/ateliermecanique-ws"
                 }
             ],
             "tags" : [
@@ -46,13 +42,7 @@
         {
             "image" : "images/projects/apple.jpg",
             "title": " MVVM IOS Application using Persistence and API",
-            "bodyText": "- An App where users browse through different TV shows, add them to a watchlist and give a star rating and written review. All data is saved to a firebase database.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
+            "bodyText": "- An App where users browse through different TV shows, add them to a watchlist and give a star rating and written review.\n \n - All data is saved to a firebase database.\n\n- Showcases different animes, genres and a variety of amazing content for users to view.\n Uses features like search, and allows users to create their own lists and categories",
             "tags" : [
                 "Swift",
                 "SwiftUI",
@@ -63,11 +53,11 @@
         {
             "image" : "images/projects/chatroom.jpg",
             "title": "PHP-Chatroom",
-            "bodyText": "A php-chatroom where 2 users can communicate back and forth on 2 different machines",
+            "bodyText": " - A php-chatroom where two users can communicate back and forth on different machines mimcking modern chat rooms.\n\n- Given a vintage touch and design meant to replicate the nostlaigc feeling of early 2000's chat rooms like MSN ",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/MohitShankar/PHP-ChatRoom"
                 }
             ],
             "tags" : [
@@ -79,11 +69,11 @@
         {
             "image" : "images/projects/iot.jpg",
             "title": "IoT Home Invasion Security System",
-            "bodyText": "-A system that detects motion and sound between certain decibels and intervals that alerts the user and organizes the data inside a database while also using JSON Formatting.",
+            "bodyText": "- A system that detects motion and sound between certain decibels and intervals that alerts the user and organizes the data inside a database while also using JSON Formatting.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/dufourmax1738/IOT_Project_Home_Invasion"
                 }
             ],
             "tags" : [
@@ -99,11 +89,11 @@
         {
             "image" : "images/projects/unity.jpg",
             "title": "First Person Shooter Video Game",
-            "bodyText": "A 3D first person shooter survuival video game where the player shoots robots that attack and shoot at them.",
+            "bodyText": " - A 3D first person shooter survuival video game where the player shoots robots that attack and shoot at them.\n\n- With different game modes, weapons and timers for a challenging and unique experience.\nThis project was a gorup collaboration bringing in a team of unique people with different skillsets to contribute to the creation of this game. ",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/Nmazza1/Cybersecurity-Gone-Wrong"
                 }
             ],
             "tags" : [

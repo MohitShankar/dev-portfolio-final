@@ -15,12 +15,30 @@ const styles = {
     textAlign: 'left',
     fontSize: '1.2em',
     fontWeight: 500,
+    textShadow: '1px 1px 2px #000', // Add dark outlines to the text
   },
   introImageContainer: {
     margin: 10,
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
+  },
+  introImage: {
+    maxWidth: '100%', // Set maximum width to ensure image doesn't exceed container width
+    height: 'auto', // Maintain aspect ratio
+    borderRadius: '50%', // Optionally, add rounded corners for a circular image
+  },
+  icon: {
+    position: 'absolute',
+    bottom: -25, // Adjust as needed to position the icons relative to the text
+    left: 0,
+    display: 'flex',
+    alignItems: 'center',
+  },
+  iconImage: {
+    width: 30, // Adjust the size of the icons as needed
+    height: 30,
+    marginRight: 10, // Adjust spacing between icons if needed
   },
 };
 
@@ -56,7 +74,7 @@ function About(props) {
                     {parseIntro(data.about)}
                   </Col>
                   <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" />
+                    <img src={data?.imageSource} alt="profile" style={styles.introImage} />
                   </Col>
                 </Row>
               </Fade>

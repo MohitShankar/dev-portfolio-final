@@ -1,13 +1,16 @@
 {
     "education":[
         {
+            "title": "2024-2028",
+            "cardTitle": "Bachelors of Computer Engineering",
+            "cardSubtitle":"Gina Cody School of Engineering",
+            "cardDetailedText": "Currenltly in progress"
+        },
+        {
             "title": "2019 - 2024",
             "cardTitle": "DEC, Computer Science and Technology",
             "cardSubtitle":"Champlain Regional College, St-Lambert",
-            "cardDetailedText": "R-Score: 30",
-            "icon" : {
-                "src": "images/education/Champlain.png"
-            }
+            "cardDetailedText": "R-Score: 30"
         },
         {
             "title": "2014-2019",
