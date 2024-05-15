@@ -23,7 +23,7 @@ export const lightTheme = {
 
 export const darkTheme = {
   background: '#1A1A1A',
-  color: 'Black',
+  color: 'White',
   accentColor: '#98FB98',
   chronoTheme: {
     cardBgColor: '#2D2D2D',
