@@ -24,11 +24,11 @@ export const lightTheme = {
 export const darkTheme = {
   background: '#1A1A1A',
   color: 'White',
-  accentColor: '#FFC0CB',
+  accentColor: '#FF1493',
   chronoTheme: {
     cardBgColor: '#2D2D2D',
     cardForeColor: '#CCCCCC',
-    titleColor: '#FFC0CB',
+    titleColor: '#FF1493',
   },
   timelineLineColor: '#555555',
   cardBackground: '#222222',
@@ -36,8 +36,8 @@ export const darkTheme = {
   cardBorderColor: '#FFFFFF20',
   navbarTheme: {
     linkColor: '#999999',
-    linkHoverColor: '#FFC0CB',
-    linkActiveColor: '#FFC0CB',
+    linkHoverColor: '#FF1493',
+    linkActiveColor: '#FF1493',
   },
   bsPrimaryVariant: 'dark',
   bsSecondaryVariant: 'light',
